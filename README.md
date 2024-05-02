@@ -67,5 +67,5 @@ The most prolific producers of content for Netflix are primarily in the USA, wit
 - TV Shows should not be longer than 6 seasons so viewers won't find it boring because of its lengthy episodes and seasons.
 
 *__STAY SAFE TILL YOU HEAR FROM ME AGAIN__* 😙 
-![](https://github.com/FadilatBraimah/Netflix-Movie-and-TV-Show/blob/d140117bf1daaf8db6851061dabff29e45b5bb3d/thankyounote.jpg)    
+![](https://github.com/FadilatBraimah/Netflix-Movie-and-TV-Show/blob/d140117bf1daaf8db6851061dabff29e45b5bb3d/thankyounote.jpg)  
 BRAIMAH FADILAT
