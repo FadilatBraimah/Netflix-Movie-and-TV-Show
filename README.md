@@ -41,7 +41,7 @@ For visualization, I exported the CSV file to Excel Power Query and I created pi
 ### Movie and TV Show Distribution
 In general, there are more movies available on Netflix than TV Shows. There are 70% Movies and 30% TV Shows but Netflix uploads in years might vary as there might be some years with more TV Shows than Movies.
 
-![](https://github.com/FadilatBraimah/Netflix-Movie-and-TV-Show/blob/d140117bf1daaf8db6851061dabff29e45b5bb3d/moviedistribution.jpg)
+![](https://github.com/FadilatBraimah/Netflix-Movie-and-TV-Show/blob/e492574cccad7eaf954a449ba7682c66613cb4e9/moviedistribution.jpg)
 
 ### Genre
 To answer the big question of what are the most available genres on Netflix I decided to show how Netflix uploads Movies based on Genre. It shows that ***Drama, international movies *** followed by ***Documentary*** are the most common Genres on Netflix.
